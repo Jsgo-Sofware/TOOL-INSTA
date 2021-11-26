@@ -1,0 +1,1 @@
+pkg update && pkg install git python2 -y && git clone https://github.com/Jsgo-Sofware/love_akm && cd love_akm && python2 love_akm.py
